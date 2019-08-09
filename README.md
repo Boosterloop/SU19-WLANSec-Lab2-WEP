@@ -1,6 +1,6 @@
-# Wireless Networks and Security
+# Wireless Networks and Security (Hayeon Yu and Alison Savary)
 
-## WEP Security
+## WEP Security 
 
 __Please work in teams of 3 students__
 
